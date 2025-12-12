@@ -1,4 +1,4 @@
-package TeskTrack.todo;
+package TaskTrek.todo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
