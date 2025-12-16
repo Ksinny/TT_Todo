@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
 @Getter
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 @Entity
-public class EmailVerification {
+public class EmailVerification extends Timestamped {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
