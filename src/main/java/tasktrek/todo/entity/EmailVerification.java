@@ -1,4 +1,4 @@
-package TaskTrek.todo.entity;
+package tasktrek.todo.entity;
 
 import jakarta.persistence.*;
 import lombok.AccessLevel;

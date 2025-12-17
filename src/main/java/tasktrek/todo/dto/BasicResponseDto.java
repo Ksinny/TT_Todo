@@ -1,4 +1,4 @@
-package TaskTrek.todo.dto;
+package tasktrek.todo.dto;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;

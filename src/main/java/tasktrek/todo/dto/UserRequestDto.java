@@ -1,4 +1,4 @@
-package TaskTrek.todo.dto;
+package tasktrek.todo.dto;
 
 import jakarta.validation.constraints.AssertTrue;
 import jakarta.validation.constraints.Email;
@@ -7,7 +7,7 @@ import jakarta.validation.constraints.Pattern;
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import TaskTrek.todo.entity.User;
+import tasktrek.todo.entity.User;
 
 public class UserRequestDto {
 

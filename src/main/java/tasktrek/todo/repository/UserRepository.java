@@ -1,6 +1,6 @@
-package TaskTrek.todo.repository;
+package tasktrek.todo.repository;
 
-import TaskTrek.todo.entity.User;
+import tasktrek.todo.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

@@ -1,6 +1,6 @@
-package TaskTrek.todo.dto;
+package tasktrek.todo.dto;
 
-import TaskTrek.todo.entity.User;
+import tasktrek.todo.entity.User;
 import lombok.*;
 
 public class UserResponseDto {

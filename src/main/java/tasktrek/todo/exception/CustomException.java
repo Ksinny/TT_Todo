@@ -1,4 +1,4 @@
-package TaskTrek.todo.exception;
+package tasktrek.todo.exception;
 
 import lombok.Getter;
 
